@@ -7,7 +7,7 @@ tutaj można przeczytać więcej: [plan projektu](https://docs.google.com/docume
 # Logo aplikacji:
 
 
-!(logo)[images/370319921_399915629116184_7804101117328271869_n.png]
+!(logo)[/images/370319921_399915629116184_7804101117328271869_n.png]
 
 
 
